@@ -1,6 +1,6 @@
-# Welcome!!!
+# Welcome!
 
-**Greetings to you!!!**
+**Greetings to you!**
 - I’m interested in all programming languages (because why not?!)
 - I’m currently learning all programming languages and intenting to master it all with algorithmic thinking.
 
