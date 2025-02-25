@@ -6,7 +6,7 @@
 
 **If you are looking for a programmer or developer to be hired, maybe I could solve that problem.**
 ***
-Feel free to get or copy from what i share on my public repo.
+Feel free to copy or clone from what i share on my public repo.
 
 <!---
 geraldhi101/geraldhi101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
